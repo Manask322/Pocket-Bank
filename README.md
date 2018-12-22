@@ -5,6 +5,6 @@ type the following:
 
 java -jar "BANK.jar" 
 
->To open the Database File use path BANK/src/BANK
+>To open the Database File use path BANK/src/BANK<br>
 >To open UI file use path  /BANK/src/UI
 
